@@ -1,0 +1,88 @@
+[33mcommit 5d0d50593d1984d06b5466e4b01734cb5c4519da[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/develop[m[33m, [m[1;31morigin/Cant-pull[m[33m, [m[1;32mdevelop[m[33m, [m[1;32mCant-pull[m[33m)[m
+Merge: 5b902ca fc32a30
+Author: Dimaso <dimaso@Dimaso.Ishchenko>
+Date:   Thu Dec 21 19:15:58 2017 +0200
+
+    Merged auth.js in WebStorm
+
+[33mcommit 5b902ca3b9d275159caae7efff5a89d7025bf25a[m
+Author: Dimaso <dimaso@Dimaso.Ishchenko>
+Date:   Thu Dec 21 18:47:35 2017 +0200
+
+    Changed auth.js
+
+[33mcommit fc32a30ce8413412c22acf5e343aa2553287d7ac[m[33m ([m[1;32mconflicted-branch[m[33m)[m
+Author: Dimaso <dimaso@Dimaso.Ishchenko>
+Date:   Thu Dec 21 18:43:46 2017 +0200
+
+    Changed auth on the conflicted-branch
+
+[33mcommit 14b2f05936b3570874804e544dca5ff6ce5a4e33[m
+Author: Dimaso <dimaso@Dimaso.Ishchenko>
+Date:   Thu Dec 21 18:38:17 2017 +0200
+
+    Changed auth on conflicted branch
+
+[33mcommit 69250884e37b1baa9c52cb78c66f717f80b4700a[m
+Author: Dimaso <dimaso@Dimaso.Ishchenko>
+Date:   Thu Dec 21 18:32:08 2017 +0200
+
+    Cheange auth on conflicted branch
+
+[33mcommit e518699b98a26cbedb6863ca99efa18466697519[m[33m ([m[1;33mtag: 1.2[m[33m, [m[1;32m1.2[m[33m, [m[1;32m1.1[m[33m)[m
+Merge: 476788c 1f7b7c8
+Author: Dimaso <dimaso@Dimaso.Ishchenko>
+Date:   Thu Dec 21 01:20:58 2017 +0200
+
+    Merge tag '1.1' into develop
+    
+    1.1
+
+[33mcommit 1f7b7c87ddf342176bb22377c0a328b8d4f2c0aa[m[33m ([m[1;33mtag: 1.1.1[m[33m, [m[1;33mtag: 1.1[m[33m, [m[1;31morigin/master[m[33m)[m
+Merge: 2ab79c5 476788c
+Author: Dimaso <dimaso@Dimaso.Ishchenko>
+Date:   Thu Dec 21 01:17:16 2017 +0200
+
+    Merge branch 'release/1.1'
+
+[33mcommit 476788ca152c964c95fede2217c1d55fc2b76236[m
+Author: Dimaso <dimaso@Dimaso.Ishchenko>
+Date:   Thu Dec 21 00:45:41 2017 +0200
+
+    Added register
+
+[33mcommit 2ab79c57c7c665965969f26dea51813c89c1fee0[m[33m ([m[1;31morigin/feature/implementing-auth[m[33m)[m
+Author: Dimaso <dimaso@Dimaso.Ishchenko>
+Date:   Wed Dec 20 17:29:30 2017 +0200
+
+    Added authentication
+
+[33mcommit 4360da19ee4d8b8f457163fcae4c16152574de5a[m[33m ([m[1;31morigin/implement-new-logic[m[33m)[m
+Author: Dimaso <dimaso@Dimaso.Ishchenko>
+Date:   Wed Dec 20 16:27:42 2017 +0200
+
+    Added getPerson function
+
+[33mcommit ebe938c4206ff31c8b7d3082993df45d8edfc7d2[m
+Author: Dimaso <dimaso@Dimaso.Ishchenko>
+Date:   Sun Dec 17 19:08:24 2017 +0200
+
+    Added 2.js
+
+[33mcommit 517915117881bc0e5878e39efa9e2f30ea24bed4[m
+Author: Dimaso <dimaso@Dimaso.Ishchenko>
+Date:   Sun Dec 17 18:41:22 2017 +0200
+
+    Changed addNumber to deductNumber
+
+[33mcommit fb9809151369b6bf531715ccb4b8bb8913e6ef66[m
+Author: Dimaso <dimaso@Dimaso.Ishchenko>
+Date:   Sun Dec 17 18:37:21 2017 +0200
+
+    Added addNumber function
+
+[33mcommit 45f7ba52f9ad8c020f593fc516b2f77400e1e0aa[m
+Author: Dimaso <dimaso@Dimaso.Ishchenko>
+Date:   Tue Dec 12 23:47:30 2017 +0200
+
+    Started learning git
